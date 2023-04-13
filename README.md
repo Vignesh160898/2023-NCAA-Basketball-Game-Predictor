@@ -31,7 +31,7 @@ The project follows these main steps:
 
 ## Results
 
-The current model achieved an accuracy of XX%, a precision of XX%, a recall of XX%, and an F1-score of XX% on the test set.
+The current model achieved an accuracy of 89%, a precision of 89.92%, a recall of 86.85%, and an F1-score of 89.91% on the test set.
 
 ## Future Work
 
